@@ -1,0 +1,37 @@
+body{
+  background-color: bisque;
+
+h1 {
+  font-size: 50px;
+  color:blueviolet; 
+}
+
+h2 {
+  font-size: 30px;
+  color:aqua;
+}
+ 
+.paragrafo1{
+  font-size: 20px;
+  color: blue;
+}
+
+.paragrafo2{
+  font-size: 20px;
+  color:blue;
+}
+
+.paragrafo3{
+  font-size: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+}
